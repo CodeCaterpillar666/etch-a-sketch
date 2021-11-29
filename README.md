@@ -3,6 +3,17 @@ This is a toy project form From [Odin Project](https://www.theodinproject.com/) 
 
 Here is [Live Demo](https://codecaterpillar666.github.io/etch-a-sketch/) hosted on Github Pages.
 
+## WHAT I LEARN FROM THIS PROJECT
+1. Practice more html, CSS and JavaScript.
+2. DOM manipulation using JavaScript:
+   1. `document.querySelector`
+   2. `element.setAttribute`
+   3. `element.classList.add`
+   4. `element.addEventListener`
+   5. button click event handle
+   6. ......
+
+
 ## HOW TO PLAY
 1. Open the [Live Demo](https://codecaterpillar666.github.io/etch-a-sketch/)
 2. Move mouse cursor on the canvas, the pixels your mouse have encountered will filled with black
